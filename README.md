@@ -1,6 +1,6 @@
 # Operating Systems Final Project
 
-## Topic: Devlop/Simulate and Preemptive Scheduling Algorithm
+## Topic: Devlop/Simulate an Preemptive Scheduling Algorithm
 
 ### Problem Statement  
 Currently prevalent round robin preemptive scheduling algorithms are not applicable in real 
